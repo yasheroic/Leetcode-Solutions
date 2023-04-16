@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains my solutions to Leetcode problems. Each solution includes a brief explanation of the approach used and the code in one or more programming languages.
+This repository contains my solutions to Leetcode problems.Most of the Solutions are done iN Python
 
 ## Problems
 
@@ -8,8 +8,13 @@ The problems are organized by Leetcode problem number. Each problem is linked to
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Python/two-sum.py), [Java](./Java/TwoSum.java) |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py), [Java](./Java/AddTwoNumbers.java) |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Python/two-sum.py)
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py)
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/Longest Substring Without Repeating Characters/)| [Python](./Python/add-two-numbers.py)
+|4|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py)
+|5|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py)
+|6|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py)
+|7|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py)
 |...|...|...|
 
 ## Contributing
