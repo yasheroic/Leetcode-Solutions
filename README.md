@@ -8,7 +8,7 @@ The problems are organized by Leetcode problem number. Each problem is linked to
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Python/two-sum.py), [Java](./Java/TwoSum.java) |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/yash-codes02/Leetcode-Solutions/blob/main/Add%20Two%20Numbers.py)
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Python/add-two-numbers.py), [Java](./Java/AddTwoNumbers.java) |
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./Python/longest-substring-without-repeating-characters.py), [Java](./Java/LongestSubstringWithoutRepeatingCharacters.java) |
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](./Python/median-of-two-sorted-arrays.py), [Java](./Java/MedianOfTwoSortedArrays.java) |
